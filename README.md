@@ -1,4 +1,23 @@
 # Angular2ChromeExtensionSeed
 Seed of a Chrome extension using typescript Angular 2 (07/03/2016, v2.0.0-beta.8)
 
-This project is based on the Google tutorial : https://angular.io/docs/ts/latest/quickstart.html, adds Angular-CLI typical project NPM managment and the extension CSP rights to allow Angular 2 execution. 
+This project is based on the Google tutorial: https://angular.io/docs/ts/latest/quickstart.html, adds Angular-CLI typical project NPM managment and the extension CSP rights to allow Angular 2 execution. 
+
+# Use
+Install NPM (with node) for your platform: https://nodejs.org/download/release/
+Get the project localy: git clone https://github.com/Toldwin/Angular2ChromeExtensionSeed.git
+Go in the project folder: cd Angular2ChromeExtensionSeed
+
+Launch/use the extension directly in your browser : npm start
+
+Use the extension in Chrome: 
+- Open Chrome preferences
+- Choose "Parameters"
+- Select "Extensions" on the left
+- Activate "developper mode" on the top right
+- Select "Load none packaged extension"
+- Select the Angular2ChromeExtensionSeed folder
+
+Use the extension shown with a little angular 2.0 icon. It should show you "loading..." and next "My Firest Angular 2 App".
+
+You are now free to modify this seed project to make the wonderful extension you like.
