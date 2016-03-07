@@ -5,7 +5,9 @@ This project is based on the Google tutorial: https://angular.io/docs/ts/latest/
 
 # Requirement
 Install NPM (with node) for your platform: https://nodejs.org/download/release/
+
 Get the project localy: git clone https://github.com/Toldwin/Angular2ChromeExtensionSeed.git
+
 Go in the project folder: cd Angular2ChromeExtensionSeed
 
 # Use
