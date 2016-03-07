@@ -15,7 +15,7 @@ To use project as an extension in Chrome:
 - Open Chrome preferences
 - Choose "Parameters"
 - Select "Extensions" on the left
-- Activate "developper mode" on the top right
+- Activate "developer mode" on the top right
 - Select "Load none packaged extension"
 - Select the Angular2ChromeExtensionSeed folder
 
