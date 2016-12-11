@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Angular2ChromeExtensionSeed",
+  "description": "Angular 2 seed extension",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval' ; object-src 'self'"
+}
