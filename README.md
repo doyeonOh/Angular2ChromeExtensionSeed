@@ -8,6 +8,8 @@ Install NPM (with node) for your platform: https://nodejs.org/download/release/l
 
 Get the project localy: git clone https://github.com/Toldwin/Angular2ChromeExtensionSeed.git
 
+Install the project module dependencies, go in the project folder : npm install
+
 # Use
 To launch/use the extension directly in your browser as a standard web page, in the project folder use: ng serve
 
